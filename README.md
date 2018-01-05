@@ -1,3 +1,3 @@
 # Laced
 
-[Infographic Preview](https://jordyquench.github.io/lacedindex.html)
+[Infographic Preview](https://jordyquench.github.io/laced-done/index.html)
